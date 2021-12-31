@@ -29,7 +29,7 @@ You can return the answer in any order.
 
 ### Syntax: 
 
-```jx 
+```jsx 
 var twoSum = function(nums, target) {
     let map = new Map(); 
     for(let i = 0; i < nums.length ; i++){
